@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'YOUR_SERVER_IP', // Example: jmcoresmp.aternos.me
+        host: 'JMCORESMP.play.hosting', // Example: jmcoresmp.aternos.me
         port: 25565,           // Your server port
         username: 'AFK_Bot',   // The bot's name
         version: '1.20.1'      // Your server version
